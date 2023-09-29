@@ -1,5 +1,7 @@
 # Try-GitHub-Actions
 
+This is the ["hello-world-javascript-action"](https://github.com/mlabrkic/hello-world-javascript-action) test.
+
 See in your "Try-GitHub-Actions" repository:
 
 ```
